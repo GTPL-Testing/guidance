@@ -2,11 +2,6 @@
 
 Vehicle-agnostic **guidance & trajectory optimization** for GT Propulsive Landers.
 
-> **Provenance:** Reorganized **by function** in July 2026 from the monolithic
-> [`GTPL-Testing/MonopropUAV`](https://github.com/GTPL-Testing/MonopropUAV)
-> repo (was `Algorithms/LosslessConvexification`). Full commit history is
-> preserved. See the [GTPL-test root README](../README.md) for the full mapping.
-
 ## Contents
 
 | Path | What it is |
@@ -15,4 +10,4 @@ Vehicle-agnostic **guidance & trajectory optimization** for GT Propulsive Lander
 
 ## Sibling libraries
 
-[`navigation`](../navigation) · [`control`](../control) · [`dynamics`](../dynamics)
+[`navigation`](../navigation) · [`control`](../control) · [`simulations`](../simulations)
